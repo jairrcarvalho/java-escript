@@ -1,2 +1,2 @@
 # java-escript
- curso de javaescript (curso em video)
+ cursoo de javaescript (curso em video)
